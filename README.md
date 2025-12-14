@@ -15,9 +15,4 @@ I am building **job-ready data analytics skills** through hands-on projects.
 - Zomato Data Analysis Dashboard
 - Excel Financial Dashboard
 
-### 📈 What I'm Doing Now
-- Daily data practice
-- Building end-to-end analytics projects
-- Preparing for interviews
-
 📫 Connect with me on LinkedIn
