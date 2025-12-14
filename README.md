@@ -11,8 +11,8 @@ I am building **job-ready data analytics skills** through hands-on projects.
 - Power BI (DAX, Interactive Dashboards)
 
 ### 📁 Featured Projects
-- Retail RFM Analysis (SQL + Power BI)
-- Zomato Data Analysis Dashboard
-- Excel Financial Dashboard
+- Customer Churn Prediction
+- E-commerce Analysis                
+- Retail Customer Segmentation using RFM Analysis         
 
 📫 Connect with me on LinkedIn
